@@ -1,0 +1,1 @@
+ /Users/yliia/Documents/GitHub/Space-Scutum-Test-Task/.dart_tool/flutter_build/f308350ab290314a3154f788993faec0/native_assets.yaml: 
